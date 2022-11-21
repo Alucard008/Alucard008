@@ -13,8 +13,10 @@
         <h3>My name is <strong>Abdullah Masood</strong> and I'm a Software Developer!!</h3>
         <div align="centre">  
               <div align ="center">- 🇵🇰 I'm from Pakistan and am currently residing in Islamabad </div>  
-              <div align ="center">- 🌱 I’m currently learning everything 🤣 </div> 
-              <div align ="center">- 👯 I’m looking to collaborate with other content creators and developers </div> 
+              <div align ="center">- 🌱 I’m currently learning everything 🤣 </div>
+              </br>
+              <div align ="center">- 👯 <strong>I’m looking to collaborate with other content creators and developers</strong> </div> 
+              </br> 
               <div align ="center">- 🥅 2022 Goals: Become better than yesterday </div> 
               <div align ="center">- ⚡ Fun fact: I love to play E-games and am open to trying new foods  </div>   
               </br>
