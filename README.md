@@ -13,7 +13,7 @@
 
   <div display="inline">
     <div align="centre">
-        <h3>My name is <strong>Abdullah Masood</strong> and I'm a Software Developer!!</h3>
+        <h3>My name is <strong>Abdullah Masood</strong>!!</h3>
         <div align="centre">  
               <div align ="center">- 🇵🇰 I'm from Pakistan and am currently residing in Islamabad </div>  
               <div align ="center">- 🌱 I’m currently learning everything 🤣 </div>
