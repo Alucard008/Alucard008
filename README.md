@@ -1,11 +1,14 @@
 
 
-<div align="center"><h2> 👋 Hello, people of planet earth! 🌍</h2> <img src="https://raw.githubusercontent.com/Alucard008/Alucard008/master/wave.gif" width="30px"></div>
-  
+<h1 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hello, people of planet earth! 🌍 </h1>
+
   <div id="header" align="center">
   
   <div display="inline" align="center">
     <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+    <p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science;Software+Developer;Android+Developer;Deep+Learning;DS%20|%20AI%20|%20ML%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+</p>
   </div>
 
   <div display="inline">
@@ -21,16 +24,11 @@
               <div align ="center">- ⚡ Fun fact: I love to play E-games and am open to trying new foods  </div>   
               </br>
               <div align ="center">
-                    - 📇 You can contact me at...   
-                    <a href="https://www.linkedin.com/in/abdullah-masood-22a3b31a3/">
-                    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-                    </a>
-                    <a href="https://www.facebook.com/abdullah.9729">
-                    <img src="https://img.shields.io/badge/Facebook-green?style=for-the-badge&logo=facebook&logoColor=white" alt="LinkedIn Badge"/>
-                    </a>
-              </div>   
-        </div>
-     </div>      
+                    - 📇 You can contact me at
+                <a href="mailto:abdullahmasood163@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+	              <a href="https://github.com/Alucard008"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	                    <a href="https://www.linkedin.com/in/abdullah-masood-22a3b31a3/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	               
   </div>
    
       
@@ -46,18 +44,23 @@
   ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=openjdk&logoColor=white&color=2bbc8a)
   ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c++&logoColor=white&color=2bbc8a)
 
-  ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
-  ![](https://img.shields.io/badge/Tools-AndroidStudio-informational?style=flat&logo=android&logoColor=white&color=2bbc8a)
+  ![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
+  ![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
+  ![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
 
   ![](https://img.shields.io/badge/Backend-Django-informational?style=flat&logo=django&logoColor=white&color=2bbc8a)
   ![](https://img.shields.io/badge/FrontEnd-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
   ![](https://img.shields.io/badge/FrontEnd-HTML-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
   ![](https://img.shields.io/badge/FrontEnd-CSS-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
+  ![](https://img.shields.io/badge/Frontend-Bootstrap-information?style=flat&logo=bootstrap&logoColor=white&color=2bbc8a)
+  
 
-
+  ![](https://img.shields.io/badge/Designing-Canva-informational?style=flat&logo=canva&logoColor=white&color=2bbc8a)
+  ![](https://img.shields.io/badge/Designing-Figma-informational?style=flat&logo=figma&logoColor=white&color=2bbc8a)
   ![](https://img.shields.io/badge/Editor-PyCharm-informational?style=flat&logo=pycharm&logoColor=white&color=2bbc8a)
   ![](https://img.shields.io/badge/Editor-VsCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a)
-
+  ![](https://img.shields.io/badge/Tools-AndroidStudio-informational?style=flat&logo=android&logoColor=white&color=2bbc8a)
+ 
 
 
 
