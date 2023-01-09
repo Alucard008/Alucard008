@@ -72,6 +72,6 @@
   </a>
   <h6>* These stats do not include the private repositories</h6>
 
-  ![Snake animation](https://github.com/Alucard008/Alucard008/blob/output/github-contribution-grid-snake.svg)
+  
 
  </div>
