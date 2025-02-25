@@ -20,8 +20,8 @@
               </br>
               <div align ="center">- 👯 <strong>I’m looking to collaborate with other content creators and developers</strong> </div> 
               </br> 
-              <div align ="center">- 🥅 2024 Goals: Become better than yesterday </div> 
-              <div align ="center">- ⚡ Fun fact: I love to play E-games and am open to trying new foods  </div>   
+              <div align ="center">- 🥅 2025 Goals: Become better than yesterday </div> 
+              <div align ="center">- ⚡ Fun fact: I love to play E-games and am open to trying new foods ( halal )  </div>   
               </br>
               <div align ="center">
                     - 📇 You can contact me at
