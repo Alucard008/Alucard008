@@ -15,7 +15,7 @@
     <div align="centre">
         <h3>My name is <strong>Abdullah Masood</strong>!!</h3>
         <div align="centre">  
-              <div align ="center">- 🇵🇰 I'm from Pakistan and am currently residing in Islamabad </div>  
+              <div align ="center">- 🇵🇰 I'm from Pakistan and am currently residing in Paris, France </div>  
               <div align ="center">- 🌱 I’m currently learning everything 🤣 </div>
               </br>
               <div align ="center">- 👯 <strong>I’m looking to collaborate with other content creators and developers</strong> </div> 
