@@ -1,103 +1,128 @@
-<h1 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hello, people of planet earth! 🌍 </h1>
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hello, people of planet earth! 🌍
+</h1>
 
-<div id="header" align="center">
+<div align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <p align="center">
+  <p>
     <a href="https://github.com/DenverCoder1/readme-typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science;Software+Developer;AI+%7C+ML+%7C+Data+Enthusiast;Always+learning+new+things&center=true&width=500&height=50">
+      <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science;Data+Enthusiast;AI+%7C+ML+%7C+Big+Data+Explorer;Always+learning+new+things&center=true&width=500&height=50">
     </a>
+  </p>
+
+  <h3>My name is <strong>Abdullah Bin Masood</strong>!!</h3>
+  <p>🇵🇰 From Pakistan | 📍 Currently in Paris, France</p>
+  <p>🌱 I’m learning everything I can 🤖</p>
+  <p>👯 I’m looking to collaborate with devs, creators, and teams</p>
+  <p>🥅 2025 Goal: Be better than yesterday</p>
+  <p>⚡ Fun fact: I love e-sports & trying halal food 🍜</p>
+
+  <p>
+    📇 Reach me:
+    <a href="mailto:abdullahmasood163@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" height="30"/></a>
+    <a href="https://github.com/Alucard008"><img src="https://img.icons8.com/bubbles/50/000000/github.png" height="30"/></a>
+    <a href="https://www.linkedin.com/in/abdullah9202/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" height="30"/></a>
   </p>
 </div>
 
 ---
 
-### 👋 My name is **Abdullah Bin Masood**
-
-- 🇵🇰 I'm from Pakistan, currently living in Paris, France 🇫🇷  
-- 🌱 I’m currently learning everything 🤣  
-- 👯 I’m looking to collaborate with developers, data scientists, and content creators  
-- 🥅 2025 Goal: Become better than yesterday  
-- ⚡ Fun fact: I love e-sports and halal food hunting!  
-
-📬 **Reach me at:**  
-<a href="mailto:abdullahmasood163@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png"/></a>
-<a href="https://github.com/Alucard008"><img src="https://img.icons8.com/bubbles/50/000000/github.png"/></a>
-<a href="https://www.linkedin.com/in/abdullah9202/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/></a>
-
----
-
 ## 🧾 Resume at a Glance
+<div align="center">
 
-### 🎓 Education
-- **Master’s in Data Management & AI**, ECE Paris (2025–Present) 🇫🇷  
-- **Bachelor’s in Computer Science**, NUCES – FAST, Islamabad (2016–2021)
+### 🎓 Education  
+**Master’s in Data Management & AI**, ECE Paris 🇫🇷  
+**Bachelor’s in Computer Science**, FAST NUCES, Islamabad 🇵🇰
 
-### 💼 Experience
-- **MERN Stack Developer – Codistan Ventures** (Sep 2023 – Dec 2024)  
-  - Built microservices improving efficiency by 24%  
-  - Reduced query latency by 50% with NoSQL optimizations  
-  - Led a team of 4 devs with weekly code reviews  
-- **Software Engineer – LearnOBots**  
-  - Developed an AI chat platform for 5K+ users  
-  - Deployed multiple LAN servers  
-- **Research Assistant – NCAI, NUST**  
-  - Improved model accuracy by 3%  
-  - Optimized data pipeline speed by 30%  
-- **Frontend Intern – DCube, NUST**  
-  - Built 15+ reusable React components
+### 💼 Experience  
+- **Codistan Ventures** – MERN Stack Developer  
+  🚀 Improved scalability by 24% | Reduced latency by 50% | Led 4 developers  
+- **LearnOBots** – Software Engineer  
+  🤖 Built AI chat platform | Managed server deployments  
+- **NCAI – NUST** – Research Assistant  
+  📈 Increased model accuracy | Built mobile ML validation apps  
+- **DCube – NUST** – React Developer Intern  
+  🧩 Created 15+ reusable components
 
-### 🚀 Projects
-- **[Covid-19 Forecasting](#)** – Hadoop, Spark, Python  
-- **[Sentiment Analysis on Social Media](https://github.com/Alucard008/sentiment_analysis)** – TensorFlow, NLP  
+### 🔥 Projects  
+- **Covid-19 Forecasting** – Hadoop, Spark  
+- **[Sentiment Analysis](https://github.com/Alucard008/sentiment_analysis)** – TensorFlow, NLP  
 - **[Credit Butterfly](https://creditbutterfly.ai)** – Next.js, ChatGPT API  
-- **[Academic Research Platform](https://aca-space.com)** – Next.js, NestJS  
-- **[LearnOSTeam](https://school.learnosteam.com/)** – Django, Jenkins, CI/CD  
+- **[Academic Research](https://aca-space.com)** – Next.js, Nest.js  
+- **[LearnOSTeam](https://school.learnosteam.com/)** – Django, Jenkins
 
-### 🛠️ Skills
-
-**Languages:** Python, JavaScript, TypeScript, Rust, Java, C++, SQL  
-**Frontend:** React, HTML, CSS, Web3.js, Bootstrap  
-**Backend:** Node.js, Django, Nest.js, REST APIs, GraphQL  
-**Cloud & DevOps:** Docker, Jenkins, Kubernetes, AWS, GCP, Git, CI/CD  
-**Databases:** PostgreSQL, MongoDB, MySQL, Redis, Elasticsearch  
-**Big Data & ML:** Spark, Hadoop, TensorFlow  
-**Tools:** Trello, Jira, Power BI, Excel, VSCode, Pycharm  
-**Soft Skills:** Leadership, Critical Thinking, Collaboration, Communication  
+</div>
 
 ---
 
-## 🔧 Technologies & Tools
+## 💻 Technologies & Skills
 
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=openjdk&color=2bbc8a)
-![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&color=2bbc8a)
+<div align="center">
 
-![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&color=2bbc8a)
-![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&color=2bbc8a)
-![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&color=2bbc8a)
+### 🧠 Languages  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 
-![](https://img.shields.io/badge/Backend-Django-informational?style=flat&logo=django&color=2bbc8a)
-![](https://img.shields.io/badge/Frontend-React-informational?style=flat&logo=react&color=2bbc8a)
-![](https://img.shields.io/badge/Frontend-HTML-informational?style=flat&logo=html5&color=2bbc8a)
-![](https://img.shields.io/badge/Frontend-CSS-informational?style=flat&logo=css3&color=2bbc8a)
-![](https://img.shields.io/badge/Frontend-Bootstrap-informational?style=flat&logo=bootstrap&color=2bbc8a)
+### 🌐 Frontend  
+![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Web3.js](https://img.shields.io/badge/-Web3.js-F16822?style=for-the-badge&logo=ethereum)
 
-![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visualstudiocode&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-PyCharm-informational?style=flat&logo=pycharm&color=2bbc8a)
+### 🔧 Backend & APIs  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![REST](https://img.shields.io/badge/-REST-000000?style=for-the-badge&logo=restful&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+### ☁️ Cloud & DevOps  
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws)
+![GCP](https://img.shields.io/badge/-GCP-4285F4?style=for-the-badge&logo=google-cloud)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![CI/CD](https://img.shields.io/badge/-CI%2FCD-007ACC?style=for-the-badge&logo=azure-devops)
+
+### 🛢 Databases  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+
+### 🔍 Big Data & ML  
+![Hadoop](https://img.shields.io/badge/-Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=black)
+![Spark](https://img.shields.io/badge/-Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+### 📈 Tools  
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jira](https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Slack](https://img.shields.io/badge/-Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
+<div align="center">
 <a href="https://github.com/Alucard008">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alucard008&hide=html,java,tex&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Alucard008&show_icons=true&count_private=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/Alucard008">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Alucard008&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alucard008&layout=compact&theme=tokyonight&hide=html,tex" />
 </a>
+</div>
 
 ---
 
-> 📝 _These stats do not include private repositories._
-
+> ⚠️ _GitHub stats do not include private repositories_
