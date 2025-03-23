@@ -6,19 +6,19 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <p>
     <a href="https://github.com/DenverCoder1/readme-typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science;Data+Enthusiast;AI+%7C+ML+%7C+Big+Data+Explorer;Always+learning+new+things&center=true&width=500&height=50">
+      <img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;AI+%7C+ML+%7C+Big+Data+Explorer;Full-Stack+Developer;Always+learning+new+things&center=true&width=500&height=50">
     </a>
   </p>
 
-  <h3>My name is <strong>Abdullah Bin Masood</strong>!!</h3>
-  <p>🇵🇰 From Pakistan | 📍 Currently in Paris, France</p>
-  <p>🌱 I’m learning everything I can 🤖</p>
-  <p>👯 I’m looking to collaborate with devs, creators, and teams</p>
-  <p>🥅 2025 Goal: Be better than yesterday</p>
-  <p>⚡ Fun fact: I love e-sports & trying halal food 🍜</p>
+  <h3>I'm <strong>Abdullah Bin Masood</strong> 👨‍💻</h3>
+  <p>🇵🇰 Based in Pakistan | Currently in Paris, France 🇫🇷</p>
+  <p>🌱 Learning everything, building cool stuff 🤖</p>
+  <p>👯 Let’s collaborate on data, dev & AI projects</p>
+  <p>🎯 2025 Goal: Build something impactful 💡</p>
+  <p>⚡ Fun fact: I love e-sports & halal food 🍱</p>
 
   <p>
-    📇 Reach me:
+    📇 Contact me:
     <a href="mailto:abdullahmasood163@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" height="30"/></a>
     <a href="https://github.com/Alucard008"><img src="https://img.icons8.com/bubbles/50/000000/github.png" height="30"/></a>
     <a href="https://www.linkedin.com/in/abdullah9202/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" height="30"/></a>
@@ -27,35 +27,30 @@
 
 ---
 
-## 🧾 Resume at a Glance
+## 🌟 Featured Projects
+
 <div align="center">
 
-### 🎓 Education  
-**Master’s in Data Management & AI**, ECE Paris 🇫🇷  
-**Bachelor’s in Computer Science**, FAST NUCES, Islamabad 🇵🇰
+🔬 **[Sentiment Analysis on Social Media](https://github.com/Alucard008/sentiment_analysis)**  
+Built a real-time sentiment classifier using TensorFlow and NLP with 65% accuracy.
 
-### 💼 Experience  
-- **Codistan Ventures** – MERN Stack Developer  
-  🚀 Improved scalability by 24% | Reduced latency by 50% | Led 4 developers  
-- **LearnOBots** – Software Engineer  
-  🤖 Built AI chat platform | Managed server deployments  
-- **NCAI – NUST** – Research Assistant  
-  📈 Increased model accuracy | Built mobile ML validation apps  
-- **DCube – NUST** – React Developer Intern  
-  🧩 Created 15+ reusable components
+📊 **[Credit Butterfly](https://creditbutterfly.ai)**  
+A Next.js web app powered by the ChatGPT API to analyze credit reports (Live App).
 
-### 🔥 Projects  
-- **Covid-19 Forecasting** – Hadoop, Spark  
-- **[Sentiment Analysis](https://github.com/Alucard008/sentiment_analysis)** – TensorFlow, NLP  
-- **[Credit Butterfly](https://creditbutterfly.ai)** – Next.js, ChatGPT API  
-- **[Academic Research](https://aca-space.com)** – Next.js, Nest.js  
-- **[LearnOSTeam](https://school.learnosteam.com/)** – Django, Jenkins
+📚 **[Academic Research Platform](https://aca-space.com)**  
+A full-stack paper sharing and collaboration tool built with Next.js and NestJS.
+
+🎓 **[LearnOSTeam](https://school.learnosteam.com/)**  
+An education platform using Django, CI/CD, and Jenkins for STEM learning.
+
+📈 **Covid-19 Data Forecasting**  
+Hadoop, Spark, and Python for time-series forecasting of global COVID data.
 
 </div>
 
 ---
 
-## 💻 Technologies & Skills
+## 💻 Technologies & Tools
 
 <div align="center">
 
@@ -115,14 +110,18 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-<a href="https://github.com/Alucard008">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Alucard008&show_icons=true&count_private=true&theme=tokyonight" />
-</a>
-<a href="https://github.com/Alucard008">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alucard008&layout=compact&theme=tokyonight&hide=html,tex" />
-</a>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Alucard008&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=Alucard008&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alucard008&layout=compact&theme=tokyonight&hide_border=true&hide=html,tex" alt="Top Languages" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alucard008&theme=tokyonight" alt="Profile Summary" />
+
 </div>
 
 ---
 
-> ⚠️ _GitHub stats do not include private repositories_
+> ⚠️ _Stats do not include private repositories unless you enable them in [profile settings](https://github.com/settings/profile)_
+
