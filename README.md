@@ -111,7 +111,6 @@ Hadoop, Spark, and Python for time-series forecasting of global COVID data.
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Alucard008&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 <img src="https://github-readme-stats.vercel.app/api?username=Alucard008&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 
