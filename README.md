@@ -11,7 +11,7 @@
   </p>
 
   <h3>I'm <strong>Abdullah Bin Masood</strong> 👨‍💻</h3>
-  <p>🇵🇰 Based in Pakistan | Currently in Paris, France 🇫🇷</p>
+  <p> Currently in Paris, France 🇫🇷</p>
   <p>🌱 Learning everything, building cool stuff 🤖</p>
   <p>👯 Let’s collaborate on data, dev & AI projects</p>
   <p>🎯 2025 Goal: Build something impactful 💡</p>
