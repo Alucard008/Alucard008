@@ -14,7 +14,7 @@
   <p> Currently in Paris, France 🇫🇷</p>
   <p>🌱 Learning everything, building cool stuff 🤖</p>
   <p>👯 Let’s collaborate on data, dev & AI projects</p>
-  <p>🎯 2025 Goal: Build something impactful 💡</p>
+  <p>🎯 2026 Goal: Build something impactful 💡</p>
   <p>⚡ Fun fact: I love e-sports & halal food 🍱</p>
 
   <p>
