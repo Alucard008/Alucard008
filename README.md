@@ -31,20 +31,38 @@
 
 <div align="center">
 
-🔬 **[Sentiment Analysis on Social Media](https://github.com/Alucard008/sentiment_analysis)**  
-Built a real-time sentiment classifier using TensorFlow and NLP with 65% accuracy.
+### 🌟 Multi-Agent Orchestration Platform
 
-📊 **[Credit Butterfly](https://creditbutterfly.ai)**  
-A Next.js web app powered by the ChatGPT API to analyze credit reports (Live App).
+**FastAPI • LangGraph • PostgreSQL • Redis • Docker • Next.js**
 
-📚 **[Academic Research Platform](https://aca-space.com)**  
-A full-stack paper sharing and collaboration tool built with Next.js and NestJS.
+Hierarchical AI agent orchestration platform enabling user-defined autonomous agents to collaborate under centralized manager-agent workflows with shared memory, task delegation, and scalable execution pipelines.
 
-🎓 **[LearnOSTeam](https://school.learnosteam.com/)**  
-An education platform using Django, CI/CD, and Jenkins for STEM learning.
+---
 
-📈 **Covid-19 Data Forecasting**  
-Hadoop, Spark, and Python for time-series forecasting of global COVID data.
+### 🤖 Askari Chatbot
+
+**RAG • FastAPI • OpenAI APIs • PostgreSQL • React**
+
+Enterprise AI chatbot supporting contextual retrieval, intelligent conversational workflows, and scalable Retrieval-Augmented Generation (RAG) pipelines for knowledge assistance.
+
+---
+
+### 📊 [Credit Butterfly](https://creditbutterfly.ai)
+
+**Next.js • Python • ChatGPT API • Selenium • Docker**
+
+AI-powered platform for credit report analysis, automated dispute workflows, and intelligent financial document processing.
+
+---
+
+### 📈 Pydela Marketing Platform
+
+**Next.js • FastAPI • PostgreSQL • AWS**
+
+Marketing automation platform supporting campaign orchestration, customer engagement analytics, and scalable workflow integrations.
+
+</div>
+
 
 </div>
 
